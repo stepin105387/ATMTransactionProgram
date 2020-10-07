@@ -18,4 +18,4 @@ doc:
 	make -C documentation
 
 clean:
-	rm -rf $(PROJECT_NAME) documentation/
+	rm -rf $(PROJECT_NAME) documentation
